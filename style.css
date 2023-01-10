@@ -1,0 +1,67 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;   
+}
+
+.contenitore{
+    margin: auto;
+    width: 700px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
+    padding: 40px; 
+}
+
+header{
+    text-align: center;    
+}
+
+.logo{
+    width: 200px;
+    padding-top: 50px;   
+}
+
+h2{
+    color: lime;
+}
+
+.options{
+    width: 700px;
+    display: inline-block;
+    text-align: center;
+    background-color: lime;
+    padding: 10px;
+}
+
+section{
+    color: white;
+    margin-top: 20px;
+}
+
+h3, h4, h5{
+    margin: 1px;
+}
+
+.barragino{
+    display: inline-block;
+    height: 20px;
+    width: 200px;
+    background-color: rgb(190, 145, 22);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.barramike{
+    display: inline-block;
+    height: 20px;
+    width: 600px;
+    background-color: green;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.barrafede{
+    display: inline-block;
+    height: 20px;
+    width: 100px;
+    background-color: red;
+    border-radius: 5px 5px 5px 5px;
+}
